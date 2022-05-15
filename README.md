@@ -1,1 +1,1 @@
-"# VisualizingSortingAlgorithms" 
+# VisualizingSortingAlgorithms
